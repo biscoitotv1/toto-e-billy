@@ -1,0 +1,12 @@
+# Dependências e artefatos
+node_modules/
+dist/
+build/
+*.log
+
+# Arquivos locais e da IDE
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/
